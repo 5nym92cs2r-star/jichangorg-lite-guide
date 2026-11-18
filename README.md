@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://jichangorg-lite.co/"><img src="assets/logo.svg" width="160" alt="机场ORG Lite Logo"></a>
+<a href="https://jichangorg-lite.co/"><img src="assets/logo.svg?v=white" width="160" alt="机场ORG Lite Logo"></a>
 
 # 机场ORG Lite
 
