@@ -1,0 +1,10 @@
+*
+!.gitignore
+!README.md
+!NAVIGATION.md
+!LICENSE
+!assets/
+assets/*
+!assets/logo.svg
+!assets/desktop.jpg
+!assets/mobile.jpg
